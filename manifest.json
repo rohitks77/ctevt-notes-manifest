@@ -8,13 +8,18 @@
   "description": "Notes and resources for CTEVT students.",
   "icons": [
     {
-      "src": "web-app-logo.jpg",
+      "src": "https://example.com/path-to-your-icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://ctevtnotes77.blogspot.com/path-to-your-icon-512x512.png",
+      "src": "https://example.com/path-to-your-icon-512x512.png",
       "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://example.com/path-to-your-icon-144x144.png",
+      "sizes": "144x144",
       "type": "image/png"
     }
   ]
