@@ -13,12 +13,12 @@
       "type": "image/png"
     },
     {
-      "src": "https://example.com/path-to-your-icon-512x512.png",
+      "src": "https://rohitks77.github.io/ctevt-notes-manifest/web-app-logo.jpg",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "https://example.com/path-to-your-icon-144x144.png",
+      "src": "https://rohitks77.github.io/ctevt-notes-manifest/web-app-logo.jpg",
       "sizes": "144x144",
       "type": "image/png"
     }
