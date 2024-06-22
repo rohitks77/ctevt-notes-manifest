@@ -1,7 +1,7 @@
 {
   "name": "CTEVT Notes",
   "short_name": "CTEVT",
-  "start_url": "/index.html",  // Updated for local testing
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
@@ -9,27 +9,27 @@
   "scope": "/",
   "icons": [
     {
-      "src": "https://rohitks77.github.io/rohitks77-manifest/icons/icon-72x72.png",
+      "src": "https://rohitks77.github.io/ctevt-notes-manifest/icons/icon-72x72.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "https://rohitks77.github.io/rohitks77-manifest/icons/icon-96x96.png",
+      "src": "https://rohitks77.github.io/ctevt-notes-manifest/icons/icon-96x96.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "https://rohitks77.github.io/rohitks77-manifest/icons/icon-144x144.png",
+      "src": "https://rohitks77.github.io/ctevt-notes-manifest/icons/icon-144x144.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "https://rohitks77.github.io/rohitks77-manifest/icons/icon-192x192.png",
+      "src": "https://rohitks77.github.io/ctevt-notes-manifest/icons/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://rohitks77.github.io/rohitks77-manifest/icons/icon-512x512.png",
+      "src": "https://rohitks77.github.io/ctevt-notes-manifest/icons/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
