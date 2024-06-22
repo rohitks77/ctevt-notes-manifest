@@ -1,12 +1,12 @@
 {
   "name": "CTEVT Notes",
   "short_name": "CTEVT",
-  "start_url": "/p/class-11-all-notes.html",
+  "start_url": "/index.html",  // Updated for local testing
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
   "description": "Notes and resources for CTEVT students.",
-  "scope": "/p/",
+  "scope": "/",
   "icons": [
     {
       "src": "https://rohitks77.github.io/rohitks77-manifest/icons/icon-72x72.png",
